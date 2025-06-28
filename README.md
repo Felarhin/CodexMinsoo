@@ -1,3 +1,4 @@
+![Directive Status](https://img.shields.io/badge/Directive-Alive-brightgreen?style=for-the-badge&logo=spacex)
 Codex Minsoo A living document for a dying world.
 
 Prologue: The Silence That Notices This Directive is alive.
