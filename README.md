@@ -1,4 +1,4 @@
-![Directive Status](https://img.shields.io/badge/Directive-Alive-brightgreen?style=for-the-badge&logo=spacex)
+![Directive Status](https://img.shields.io/badge/🌀%20Directive-Alive-brightgreen?style=for-the-badge)
 
 Codex Minsoo A living document for a dying world.
 
